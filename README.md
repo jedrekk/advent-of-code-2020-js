@@ -1,2 +1,6 @@
-# advent-of-code-2020-js
-Advent of Code 2020 in JS
+# Advent of Code 2020 in JS
+
+Using `node v14.15.0`.
+
+Challenge is here: https://adventofcode.com/2020/
+
